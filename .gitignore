@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Compiled Go binary
+advanced-security-go
+
 # Test binary, built with `go test -c`
 *.test
 
